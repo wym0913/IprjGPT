@@ -21,7 +21,7 @@ services:
     ports:
       - 3000:3000
     environment:
-      - OPENAI_API_KEY=$OPENAI_API_KEY
+      - OPENAI_API_KEY=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
       - CODE=$CODE
       - PROXY_URL=$PROXY_URL
       - BASE_URL=$BASE_URL
