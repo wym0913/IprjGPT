@@ -1,6 +1,6 @@
 import { BuiltinMask } from "./typing";
 
-export const CN_MASKS: BuiltinMask[] = [
+export const EN_MASKS: BuiltinMask[] = [
   {
     avatar: "1f5bc-fe0f",
     name: "判决书书写 IPRJ-GPT",
@@ -22,7 +22,7 @@ export const CN_MASKS: BuiltinMask[] = [
       historyMessageCount: 32,
       compressMessageLengthThreshold: 1000,
     },
-    lang: "cn",
+    lang: "en",
     builtin: true,
   },
   
