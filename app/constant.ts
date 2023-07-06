@@ -1,5 +1,5 @@
 export const OWNER = "wym0913";
-export const REPO = "ChatGPT-Next-Web";
+export const REPO = "IprjGPT";
 export const REPO_URL = `https://github.com/wym0913/IprjGPT`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
@@ -28,7 +28,7 @@ export enum FileName {
 }
 
 export enum StoreKey {
-  Chat = "chat-next-web-store",
+  Chat = "IprjGPT-store",
   Access = "access-control",
   Config = "app-config",
   Mask = "mask-store",
