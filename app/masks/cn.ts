@@ -3,7 +3,7 @@ import { BuiltinMask } from "./typing";
 export const CN_MASKS: BuiltinMask[] = [
   {
     avatar: "1f5bc-fe0f",
-    name: "自动生成判决书",
+    name: "判决书书写 IPRJ-GPT",
     context: [
       {
         role: "system",
@@ -37,4 +37,5 @@ export const CN_MASKS: BuiltinMask[] = [
     lang: "cn",
     builtin: true,
   },
- 
+  
+];
